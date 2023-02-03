@@ -1,7 +1,6 @@
 {% set pageSize = app.request.query.get('pageSize') %}
 
 {% if paginator.toPaginate %}
-
     <nav aria-label="Page navigation example">
         <ul class="inline-flex items-center -space-x-px">
             {% if paginator.hasPreviousPage %}
