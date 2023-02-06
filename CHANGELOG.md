@@ -1,3 +1,6 @@
+## 0.1.2 (February 06, 2023)
+  - Fix paginator links padding issue
+
 ## 0.1.1 (February 03, 2023)
   - Fix paginator links white bg issue
 
