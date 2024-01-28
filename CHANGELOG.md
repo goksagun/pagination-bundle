@@ -1,3 +1,6 @@
+## 0.2.0 (January 28, 2024)
+  - Update packages
+
 ## 0.1.2 (February 06, 2023)
   - Fix paginator links padding issue
 
