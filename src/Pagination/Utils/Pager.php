@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Goksagun\PaginationBundle\Pagination\Utils;
 
-class Pager
+readonly class Pager
 {
     public function __construct(private int $lastPage, private int $currentPage)
     {
