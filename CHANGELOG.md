@@ -1,3 +1,7 @@
+## 0.2.1 (January 31, 2024)
+  - Clean up ignored files
+  - Add composer.lock to gitignore
+
 ## 0.2.0 (January 28, 2024)
   - Update packages
 
